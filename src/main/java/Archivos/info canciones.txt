@@ -1,0 +1,22 @@
+ESTOS ATRIBUTOS NO ES NECESARIO QUE SEAN LEÍDOS DE ESTE ARCHIVO.
+
+Título: Put You on the Game
+Artista: The Game
+Álbum: The Documentary
+Año: 2005
+
+Título: Dreams
+Artista: The Game
+Álbum: The Documentary
+Año: 2005
+
+Título: Space Bound
+Artista: Eminem
+Álbum: Recovery
+Año: 2010
+
+Título: Maquiavelico
+Artista: Canserbero
+Álbum: Muerte
+Año: 2012
+
