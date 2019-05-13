@@ -7,7 +7,7 @@ import org.junit.Before;
 
 /**
  *
- * @author ALEX
+ * @author Diego Lagos
  */
 public class testManejoArchivos {
 
